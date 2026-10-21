@@ -1,4 +1,4 @@
-# vivid-time-boxed-daily-planner-habit-streak-tracker
+# Daily Planner Spreadsheet Excel Template: Habit Streak Tracker (No Subscriptions)
 
 Vivid Time-Boxed Daily Planner & Automated Habit Streak Tracker Engine
 
